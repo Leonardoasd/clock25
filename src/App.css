@@ -77,9 +77,18 @@
 @media (max-width: 900px){
   .App{
     width: 90vw;
-    height: 450px;
+    height: 350px;
+    font-size: 0.6em;
+  }
+  .tituloprincipal{
+    margin: 0;
   }
   .principalContainer{
+    margin-top: 30px;
     height: 160px;
+  }
+  .handlerTimeContainer {
+    height: 90px;
+    margin: 0;
   }
 }
