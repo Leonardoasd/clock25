@@ -74,3 +74,12 @@
   padding-top: 35px;
   color: black;
 }
+@media (max-width: 900px){
+  .App{
+    width: 90vw;
+    height: 450px;
+  }
+  .principalContainer{
+    height: 160px;
+  }
+}

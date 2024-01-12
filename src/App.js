@@ -9,7 +9,6 @@ const App = () => {
   const [isActive, setIsActive] = useState(false);
   const [timebreak, setTimebreak] = useState(5);
   const [timeSession, setTimeSession] = useState(25);
-  const [isSession , setIsSession] = useState(true);
   
 
   const handleUpbreak = () => {
